@@ -44,9 +44,9 @@ The models are integrated into a **Streamlit-based GUI** where users can select 
 3. Upload an image of the plant leaf and get a prediction result.
 
 ## 🖼️ Demo
-![Plant Disease Prediction Screenshot](Screenshot 2025-04-21 123631.png)
-![PestTest](Pest Test.png)
-![PlantTest](Plant Teet.png)
+![Plant Disease Prediction Screenshot](UI.png)
+![PestTest](Pest.png)
+![PlantTest](Plant.png)
 
 ## ✨ Future Enhancements
 - 📱 Android/iOS mobile app
