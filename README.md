@@ -43,6 +43,11 @@ The models are integrated into a **Streamlit-based GUI** where users can select 
    - 🐛 Pest Detection
 3. Upload an image of the plant leaf and get a prediction result.
 
+## 🖼️ Demo
+![Interface](Screenshot 2025-04-21 123631.png)
+![PestTest](Pest Test.png)
+![PlantTest](Plant Teet.png)
+
 ## ✨ Future Enhancements
 - 📱 Android/iOS mobile app
 - 🧬 Include nutrient deficiency detection
