@@ -44,8 +44,15 @@ The models are integrated into a **Streamlit-based GUI** where users can select 
 3. Upload an image of the plant leaf and get a prediction result.
 
 ## 🖼️ Demo
-![Plant Disease Prediction Screenshot](UI.png)
+
+### 🌿 Project UI
+![User Interface](UI.png)
+
+### 🐛 Pest Detection UI
 ![PestTest](Pest.png)
+
+
+### 🌿 Plant Disease Detection UI
 ![PlantTest](Plant.png)
 
 ## ✨ Future Enhancements
